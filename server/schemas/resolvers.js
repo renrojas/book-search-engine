@@ -10,6 +10,12 @@ const resolvers = {
     //   return Matchup.find(params);
     // },
   },
+  Mutation: {
+    createUser: async (parent,args) => {
+      const user = await User.create(args);
+      return user;
+    },
+  },
 };
 
 module.exports = resolvers;
