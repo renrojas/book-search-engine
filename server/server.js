@@ -17,7 +17,7 @@ const server = new ApolloServer({
 });
 
 
- const startApolloServer = async (typeDefs, resolvers) => {
+ const startApolloServer = async () => {
    await server.start();
    app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
@@ -43,5 +43,5 @@ app.get('/', (req, res) => {
   };
   
 // Call the async function to start the server
-  startApolloServer(typeDefs, resolvers);
+  startApolloServer();
  
