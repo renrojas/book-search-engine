@@ -30,7 +30,7 @@ mutation SaveBook ($bookId: ID!, $title: String!) {
     email
     savedBooks {
       authors
-      bookID
+      bookId
       description
       image
       link
@@ -46,7 +46,7 @@ mutation RemoveBook ($bookId: ID!) {
     username
     email
     savedBooks {
-      bookID
+      bookId
       authors
       description
       image
