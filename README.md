@@ -3,16 +3,24 @@
 ![github license](https://img.shields.io/badge/License-MIT-yellowgreen.svg)
 
 ## Description
-This project was created for business owners to be able to view and manage departments, roles, salaries, and employees of their company. This commandline application makes it easier to manage these parts of their company and make it easier to track and also remove if necessary.
+This project was created for avid book readers to keep a list of books they want to read. This application helps the reader keep track of the book information all in one place.
 
 ## Installation
-GitHub Repository: https://github.com/renrojas/employee-tracker
+GitHub Repository: https://github.com/renrojas/book-search-engine
+Heroku: https://mysterious-waters-26915-6cdf323b23ff.herokuapp.com/
 
 
 ## Usage
-To navigate this application, you will start by invoking the application by using the following Command: node index.js. 
-
-You will then be guided to the main menu where you can choose to view all employees, view all roles, view all departments, add an employee, add a role, add a department, or update an amployee's role.
+1. To navigate this application, you open the Heroku link and it will take you to the homepage.
+![homepage](./client/src/assets/Homepage.png)
+2. You can then type up a search to get the book results available. 
+![search](./client/src/assets/search.png)
+3. In order to save books, you will need to sign up. Click Sign Up at the top right of the page.
+![sign up](./client/src/assets/sign%20up.png)
+4. Once signed up, you will be logged in and you will be able to search books and save them by clicking on the button "Save this Book" under the book description.
+![save book](./client/src/assets/add%20book.png)
+5. To access your saved books, and/or delete them, click on the top right where it says "See Your Books" and you will see your saved books.
+![saved books](./client/src/assets/saved%20books.png)
 
 ## Credits
 
