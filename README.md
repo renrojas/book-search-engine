@@ -30,7 +30,7 @@ https://www.apollographql.com/docs/ - Apollo Server Documentation
 
 https://github.com/coding-boot-camp -  University of Denver’s GitLab course material (DU-VIRT-FSF-PT-04-2023-U-LOLC) and starter Code
 
-https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide - Heroku Deployment Guide
+https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas and https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas - Heroku Deployment Guide
 
 https://www.w3schools.com/js/default.asp - W3 schools
 
